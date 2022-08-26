@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638483141 source:c:\users\ju\documents\c++ projects\des2\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<assert.h>
+	<bitset>
+	<intrin.h>
+
